@@ -2,7 +2,7 @@
 
 A hands-on implementation of static routing across a three-router topology using GNS-3. Three PCs on separate subnets (`192.168.1.0/24`, `192.168.2.0/24`, `192.168.4.0/24`) achieve full end-to-end connectivity through manually configured static routes on R1, R2, and R3.
 
-📖 **Full article on Dev.to:** [How I Built a Multi-Router Static Routing Network from Scratch Using GNS-3](https://dev.to)
+📖 **Full article on Dev.to:** [How I Built a Multi-Router Static Routing Network from Scratch Using GNS-3]([https://dev.to](https://dev.to/almahmudkhalif/lab-task-2-how-i-built-a-multi-router-static-routing-network-from-scratch-using-gns-3-4i21))
 
 ---
 
